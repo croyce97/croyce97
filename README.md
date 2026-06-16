@@ -70,17 +70,17 @@ mindset:
 
 <div align="center">
 
+<a href="https://github.com/croyce97/k8s-gitops-observability">
+  <img height="145" src="https://github-readme-stats.vercel.app/api/pin/?username=croyce97&repo=k8s-gitops-observability&theme=tokyonight&hide_border=true&border_radius=8" alt="k8s-gitops-observability" />
+</a>
+<a href="https://github.com/croyce97/terraform-infra">
+  <img height="145" src="https://github-readme-stats.vercel.app/api/pin/?username=croyce97&repo=terraform-infra&theme=tokyonight&hide_border=true&border_radius=8" alt="terraform-infra" />
+</a>
 <a href="https://github.com/croyce97/My_NodeLB_Project">
   <img height="145" src="https://github-readme-stats.vercel.app/api/pin/?username=croyce97&repo=My_NodeLB_Project&theme=tokyonight&hide_border=true&border_radius=8" alt="My_NodeLB_Project" />
 </a>
 <a href="https://github.com/croyce97/HAproxy_project">
   <img height="145" src="https://github-readme-stats.vercel.app/api/pin/?username=croyce97&repo=HAproxy_project&theme=tokyonight&hide_border=true&border_radius=8" alt="HAproxy_project" />
-</a>
-<a href="https://github.com/croyce97/Nginx_Project">
-  <img height="145" src="https://github-readme-stats.vercel.app/api/pin/?username=croyce97&repo=Nginx_Project&theme=tokyonight&hide_border=true&border_radius=8" alt="Nginx_Project" />
-</a>
-<a href="https://github.com/croyce97/FastAPI_Project">
-  <img height="145" src="https://github-readme-stats.vercel.app/api/pin/?username=croyce97&repo=FastAPI_Project&theme=tokyonight&hide_border=true&border_radius=8" alt="FastAPI_Project" />
 </a>
 
 </div>
